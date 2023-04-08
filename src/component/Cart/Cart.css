@@ -4,6 +4,22 @@
     position: sticky;
     top: 0;
 }
+.proceed-link{
+    text-decoration: none;
+}
+
+.btn-clear-cart{
+    display: flex;
+    justify-content: space-between;
+    height: 56px;
+    font-size: 21px;
+    width: 95%;
+    margin: 10px auto;
+    border-radius: 4px;
+    color: whitesmoke;
+    background-color: red;
+    align-items: center;
+}
 
 .cart p{
     font-size: 17px;
