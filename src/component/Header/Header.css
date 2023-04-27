@@ -16,3 +16,8 @@
 .header  a:hover{
     color: orangered;
 }
+
+.text-white{
+    color: whitesmoke;
+    padding-left: 10px;
+}
